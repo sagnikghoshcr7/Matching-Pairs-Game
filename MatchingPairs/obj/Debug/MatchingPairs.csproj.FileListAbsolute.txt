@@ -1,0 +1,10 @@
+C:\Users\KIIT\source\repos\MatchingPairs\MatchingPairs\bin\Debug\MatchingPairs.exe.config
+C:\Users\KIIT\source\repos\MatchingPairs\MatchingPairs\bin\Debug\MatchingPairs.exe
+C:\Users\KIIT\source\repos\MatchingPairs\MatchingPairs\bin\Debug\MatchingPairs.pdb
+C:\Users\KIIT\source\repos\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.csprojAssemblyReference.cache
+C:\Users\KIIT\source\repos\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.Form1.resources
+C:\Users\KIIT\source\repos\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.Properties.Resources.resources
+C:\Users\KIIT\source\repos\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.csproj.GenerateResource.cache
+C:\Users\KIIT\source\repos\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.exe
+C:\Users\KIIT\source\repos\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.pdb
